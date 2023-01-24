@@ -4,7 +4,8 @@
 
 ### BREVE EXPLICACION DE LA CONSIGNA
 El objetivo del trabajo practico es medir la diferencia en los tiempos de ejecucion del Algoritmo
-de Kruskal para el problema de arbol generador mınimo con y sin el uso de la estructura de datos Union-Find
+de Kruskal para el problema de arbol generador mınimo con y sin el uso de la estructura de datos Union-Find.\
+Para mas informacion leer el archivo Consigna.pdf
 
 #### ACLARACIONES
 
